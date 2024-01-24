@@ -1,0 +1,5 @@
+file
+this is my file
+this is for tests
+line4 is this one
+hello aids
